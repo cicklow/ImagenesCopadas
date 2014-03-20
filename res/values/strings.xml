@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Imagenes Copadas</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ver_imagenes">Ver Imagenes</string>
+    <!-- ID de nuestra publicidad en admob -->
+	<string name="idADS">ca-app-pub-6167603872458915/1846103222</string>
+</resources>
